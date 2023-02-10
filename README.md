@@ -1,4 +1,4 @@
-# J.A Flix v2
+## J.A Flix v2
 
 Extensão do mini catálogo de filmes.
 
